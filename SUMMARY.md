@@ -4,5 +4,3 @@
 * [First Chapter](chapter1.md)
 * 1
 
-3
-
